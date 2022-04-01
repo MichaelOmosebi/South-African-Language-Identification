@@ -1,5 +1,5 @@
 # South-African-Language-Identification
-### A classification challenge aimed at recognizing which of the eleven south African languages a text is written in
+## A classification challenge aimed at recognizing which of the eleven south African languages a text is written in
 
 South Africa is a multicultural society that is characterised by its rich linguistic diversity. Language is an indispensable tool that can be used to deepen democracy and also contribute to the social, cultural, intellectual, economic and political life of the South African society.
 
