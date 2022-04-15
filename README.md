@@ -26,4 +26,4 @@ ven - Tshivenda
 xho - isiXhosa
 zul - isiZulu
 
-``` Improvement is sought concerning how to improve the model by dealng with lines that contain more than one language```
+``` Improvement is sought concerning how to improve the model by dealing with lines that contain more than one language```
